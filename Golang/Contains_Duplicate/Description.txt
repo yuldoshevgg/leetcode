@@ -1,0 +1,3 @@
+To find duplicate numbers from an array, write a function and two outer and inner loops.
+Outer loop interates whole array, while inner loop compares numbers with 'Outer + 1'. 
+If the numbers match return true, otherwise returns false.
