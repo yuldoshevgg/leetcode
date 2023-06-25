@@ -1,0 +1,10 @@
+ - Create two variables: record - array of number, and total = 0.
+ - 1. Loop through operations.
+  - Check if operation is number, add it to the record.
+  - Check if operation is C, remove last element from the record.
+  - Check if operation is D, double last element and add it to the record.
+  - Check if operation is +, make addition last two elements of the record and add it to the array.
+
+ - 2. Check if record length is more than 0
+  - If true, Loop through record.
+  - Add all numbers to the total.
