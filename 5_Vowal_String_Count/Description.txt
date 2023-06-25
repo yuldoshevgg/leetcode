@@ -1,0 +1,4 @@
+ - Create two variables for vowals and count
+ - Loop through the range left and right given in parametres.
+ - Split each word of words array.
+ - Check if the vowals includes first and last character of the word, increment the count.
