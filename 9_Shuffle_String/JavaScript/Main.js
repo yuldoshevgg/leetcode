@@ -6,6 +6,6 @@ var shuffleString = function (s, indices) {
   }
 
   return result.join("")
-};
+
 
 console.log(shuffleString("codeleet", [4, 5, 6, 7, 0, 2, 1, 3]));
