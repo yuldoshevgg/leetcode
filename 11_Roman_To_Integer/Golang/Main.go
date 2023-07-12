@@ -60,6 +60,6 @@ func romanToInt(s string) int {
 
 func main() {
 
-	x := romanToInt("MCMXCIV")
+	x := romanToInt("XXXIV")
 	fmt.Println(x)
 }
